@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 001,
+      "id": 100,
       "category": "animal welfare",
       "title": "Cat 4 Free",
       "description": "Find your new feline friend at this event.",
@@ -11,7 +11,7 @@
       "organizer": "Franklin Katmandude"
     },
     {
-      "id": 002,
+      "id": 200,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we eat things from the yards.",
@@ -21,7 +21,7 @@
       "organizer": "Eetohn Grossmung"
     },
     {
-      "id": 003,
+      "id": 300,
       "category": "sustainability",
       "title": "Beach Clear Out",
       "description": "Help remove people from the beach.",
