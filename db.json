@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 001,
+      "category": "animal welfare",
+      "title": "Cat 4 Free",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:30",
+      "organizer": "Franklin Katmandude"
+    },
+    {
+      "id": 002,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we eat things from the yards.",
+      "location": "Phood Towne",
+      "date": "March 22, 2022",
+      "time": "10:10",
+      "organizer": "Eetohn Grossmung"
+    },
+    {
+      "id": 003,
+      "category": "sustainability",
+      "title": "Beach Clear Out",
+      "description": "Help remove people from the beach.",
+      "location": "Hometown Beachfront",
+      "date": "August 22, 2022",
+      "time": "12:22",
+      "organizer": "Sirius Düder"
+    }
+  ]
+}
